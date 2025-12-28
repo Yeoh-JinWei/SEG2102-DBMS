@@ -22,7 +22,7 @@
 
 ## Overview
 
-This research project addresses the critical challenge of **detecting anomalies in database access logs** to identify insider threats, privilege escalation, data exfiltration, and other malicious activities. The implementation follows academic publication standards with **zero data leakage**, **comprehensive evaluation metrics**, and **full reproducibility**.
+This research project addresses the critical challenge of detecting anomalies in database access logs to identify insider threats, privilege escalation, data exfiltration, and other malicious activities. The implementation follows academic publication standards with zero data leakage, comprehensive evaluation metrics, and full reproducibility.
 
 ### Research Objectives
 
